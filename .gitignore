@@ -1,0 +1,21 @@
+# Бинарные файлы
+/bin/
+/sherlock
+
+# Базы данных
+/data/*.db
+/data/*.db-*
+
+# Логи
+*.log
+
+# Переменные окружения
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+
+# Go
+go.sum
